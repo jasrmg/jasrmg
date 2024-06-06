@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeff Sarmago</h1>
 <h3 align="center">A student taking the course of BSIT</h3>
+
 <img align="right" alt="Me Coding" width="400" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrmg&label=Profile%20views&color=0e75b6&style=flat" alt="jasrmg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jasrmg" target="blank"><img src="https://img.shields.io/twitter/follow/jasrmg?logo=twitter&style=for-the-badge" alt="jasrmg" /></a> </p>
+
+- 📫 How to reach me **alainnnsarmago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
