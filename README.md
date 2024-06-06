@@ -7,7 +7,7 @@
 <h3 align="center">A BSIT student and a newbie to the tech world</h3>
 
 <img align="right" alt="Me Coding" width="400" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif">
-<br />
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,dotnet,django,git" />
