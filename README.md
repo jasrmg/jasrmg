@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00308F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Jeff!" alt="Typing SVG" />
   </a>
 </div>
-
-<h3 align="center">A student taking the course of BSITnd a newbee to the tech world</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrmg&label=Profile%20views&color=0e75b6&style=flat" alt="jasrmg" /> </p>
+<h3 align="center">A BSIT student and a newbie to the tech world</h3>
 
 <img align="right" alt="Me Coding" width="400" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrmg&label=Profile%20views&color=0e75b6&style=flat" alt="jasrmg" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
