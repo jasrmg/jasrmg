@@ -1,5 +1,4 @@
 <div align="center">
-  https://www.codewars.com/users/jasrmg/badges/micro
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00308F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Jeff!" alt="Typing SVG" />
   </a>
