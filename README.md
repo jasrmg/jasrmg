@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrmg&label=Profile%20views&color=0e75b6&style=flat" alt="jasrmg" /> </p>
 <h3 align="center">A BSIT student and a newbie to the tech world</h3>
 
