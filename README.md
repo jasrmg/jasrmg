@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrmg&label=Profile%20views&color=0e75b6&style=flat" alt="jasrmg" /> </p>
-<h3 align="center">Janlie dakog itllg</h3>
+<h3 align="center">Janlie dakog itlog</h3>
 
 <img align="right" alt="Me Coding" width="400" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif">
 <br>
