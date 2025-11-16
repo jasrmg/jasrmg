@@ -13,7 +13,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,dotnet,django,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,dotnet,django,react,next" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,js,git,github" />
   </a>
 </p>
 <p align="center">
@@ -23,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
   </a>
 </p>
 
