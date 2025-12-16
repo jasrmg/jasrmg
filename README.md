@@ -71,13 +71,15 @@ const aboutMe = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasrmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasrmg&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasrmg&show_icons=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasrmg&theme=react&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasrmg&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasrmg&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasrmg&layout=compact&bg_color=0d1117&title_color=61dafb&text_color=ffffff&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasrmg&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&hide_border=true&area=true" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="30px"> Achievements
