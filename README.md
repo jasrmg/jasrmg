@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/your-username-here">
+  <a href="https://github.com/jasrmg">
     <img src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif" alt="Animated GIF of a dog/doggo" width="400" />
   </a>
   <br>
@@ -41,9 +41,9 @@ Here are some of the technologies I work with:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=radical&hide_border=true" alt="Jasrmg's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasrmg&show_icons=true&theme=radical&hide_border=true" alt="Jasrmg's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username-here&theme=radical&hide_border=true" alt="Jasrmg's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasrmg&theme=radical&hide_border=true" alt="jasrmg's GitHub Streak" />
 </div>
 
 ---
