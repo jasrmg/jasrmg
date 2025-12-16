@@ -92,8 +92,8 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jasrmg&repo=flowtify&theme=tokyonight&hide_border=true)](https://github.com/jasrmg/flowtify)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jasrmg&repo=sia2-auth-service&theme=tokyonight&hide_border=true)](https://github.com/jasrmg/sia2-auth-service)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=jasrmg&repo=flowtify&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true)](https://github.com/jasrmg/flowtify)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jasrmg&repo=sia2-auth-service&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&hide_border=true)](https://github.com/jasrmg/sia2-auth-service)
 
 </div>
 
