@@ -14,7 +14,7 @@ const aboutMe = {
   education: "Bachelor of Science in Information Technology",
   interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity"],
   currentlyLearning: ["Next.js", "System Design"],
-  lookingFor: "Collaboration on innovative projects"
+  lookingFor: "Internship Opportunity to contribute to enterprise-level web applications"
 };
 ```
 
