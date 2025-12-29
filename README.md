@@ -12,7 +12,7 @@ const aboutMe = {
   role: "Full Stack Developer",
   location: "Cebu, Philippines",
   education: "Bachelor of Science in Information Technology",
-  interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity"],
+  interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity", "Automation"],
   currentlyLearning: ["Next.js", "System Design"],
   lookingFor: "Internship Opportunity to contribute to enterprise-level web applications"
 };
