@@ -13,7 +13,7 @@ const aboutMe = {
   location: "Cebu, Philippines",
   education: "Bachelor of Science in Information Technology",
   interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity", "Automation"],
-  currentlyLearning: ["Next.js", "System Design"],
+  currentlyLearning: [".NET", "System Design"],
   lookingFor: "Internship Opportunity to contribute to enterprise-level web applications"
 };
 ```
