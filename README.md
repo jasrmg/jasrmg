@@ -1,7 +1,7 @@
 # Hi there, I'm Jeff Sarmago <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Hungry+To+Learn;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+DevOps+Engineer;Hungry+To+Learn;" alt="Typing SVG" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> About Me
@@ -13,7 +13,7 @@ const aboutMe = {
   location: "Cebu, Philippines",
   education: "Bachelor of Science in Information Technology",
   interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity", "Automation"],
-  currentlyLearning: [".NET", "System Design"],
+  currentlyLearning: ["DevOps, .NET", "System Design"],
   lookingFor: "Internship Opportunity to contribute to enterprise-level web applications"
 };
 ```
