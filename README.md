@@ -9,12 +9,12 @@
 ```typescript
 const aboutMe = {
   name: "Jeff Sarmago",
-  role: "Full Stack Developer",
+  internship: "Rafi-MFI"
+  role: "DevOps Engineer Intern",
   location: "Cebu, Philippines",
   education: "Bachelor of Science in Information Technology",
-  interests: ["Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity", "Automation"],
+  interests: ["DevOps", "Web Development", "AI/ML", "Open Source", "Networking", "Cybersecurity", "Automation"],
   currentlyLearning: ["DevOps, .NET", "System Design"],
-  lookingFor: "Internship Opportunity to contribute to enterprise-level web applications"
 };
 ```
 
