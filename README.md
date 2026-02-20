@@ -9,7 +9,7 @@
 ```typescript
 const aboutMe = {
   name: "Jeff Sarmago",
-  internship: "Rafi-MFI"
+  internship: "Rafi-MFI",
   role: "DevOps Engineer Intern",
   location: "Cebu, Philippines",
   education: "Bachelor of Science in Information Technology",
